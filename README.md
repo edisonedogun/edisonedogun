@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edisonedogun
 - 👀 I’m interested in technical support
 - 🌱 I’m currently learning phython
-- 💞️ I’m looking to collaborate on telegram
+- 💞️ I’m looking to collaborate on telegram @iamthefixer
 - 📫 reach me on Edisonedogun@gmail.com 
 
 <!---
